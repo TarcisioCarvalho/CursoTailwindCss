@@ -1,2 +1,0 @@
-# CursoTailwindCss
-Curso de TailwindCss
